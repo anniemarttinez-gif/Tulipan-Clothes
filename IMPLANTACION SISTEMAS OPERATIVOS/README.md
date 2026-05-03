@@ -4,9 +4,9 @@ Haciendo un resumen del PDF adjunto en este repositorio, los puntos tratados fue
 
 1.Explicación de la empresa y su función: La empresa se llama TULIPANS CLOTHES, una TIENDA EN LÍNEA de ropa modesta contemporánea.
 
-2.Elección del sistema: Se seleccionaron sistemas operativos específicos (Windows10 PRO) justificando su uso para los equipos de diseño de gama alta, y su área en este caso DISEÑO. 
+2.Elección del sistema: Se seleccionO sistema operativo específico (Windows10 PRO) justificando su uso para los equipos de diseño de gama alta, y su área en este caso DISEÑO. 
 
-3. Plan de implantación: Se detalla cmo se instalaron y configuraron inicialmente los equipos para que estuvieran listos para trabajar desde el primer día------> Adjuntas evidencias en el documento.
+3. Plan de implantación: Se detalla cmo se instalaron y configuraron  los equipos ------> Adjuntas evidencias en el documento.
 
 4.Gestión de usuarios y permisos: Se crearon roles (Administrador y Diseño) para asegurar que cada empleado acceda solo a lo que necesita, protegiendo la información de la empresa. ------->Adjuntas evidencias en el documento + EXTRA: ejemplo de confirmación. 
 
