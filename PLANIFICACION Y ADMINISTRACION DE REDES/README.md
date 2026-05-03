@@ -1,10 +1,17 @@
-Planificación y Administración de Redes - Tulipans Clothes
-Resumen del diseño de la "autopista" por donde viaja la información de la tienda. Los puntos tratados fueron:
+README EXPLICATIVA: 1º ASIR PLANIFICACION Y ADMINISTRACION DE REDES - PROYECTO INTERMODULAR
+-
+Haciendo un resumen del PDF adjunto en este repositorio, los puntos tratados fueron:
 
-Análisis de necesidades: Se identificaron cuántos equipos (PC, tablets, NAS) necesitan conexión y qué servicios de red (Internet, DHCP) requiere la tienda.  
+1.Explicación de la empresa y su función: La empresa se llama TULIPANS CLOTHES, una TIENDA EN LÍNEA de ropa modesta contemporánea.
 
-Diseño de la topología: Se creó un diagrama de red en estrella para asegurar que, si falla un cable, la cadena de producción no se detenga.  
+2. Análisis de necesidades: Se identficaron cuántos equipos (PC, tablets, NAS) ncesitan conexión y qué servicios de red (Internet, DHCP) requiere la tienda.  
 
-Direccionamiento IP: Se organizaron las direcciones (IP) de forma lógica, asignando rangos fijos para dispositivos críticos como el Servidor NAS y el Router.  
+3. Diseño de la topología: Se creó un diagrama de red en estrella para asegurar que, si falla un cable, la cadena de producción no se detenga.----> En el documento adjunto hay evidencia del diagrama de red de estrella en CISCO PACKET TRACER.
 
-Dispositivos y Servicios: Se seleccionaron los Switch y Router necesarios, explicando la función de cada uno para mantener la red segura y rápida.
+3.Direccionamiento IP: Se asignaron IP y se describio la red.  
+
+4. EXTRA: En la asignatura de ISO en VIRTUAL BOX cree una maquina virtual para simular la instalacion del sistema operativo de uno de los ordenaodres de gama alta utilizado para diseño, le asigne la IP fija ya que luego procedi a la creacion del escritorio remoto.
+
+ *MUCHAS GRACIAS, ATENTAMENTE: MARÍA MARTÍNEZ NAVIA 1º ASIR.*
+
+
