@@ -1,10 +1,15 @@
-Lenguaje de Marcas y Gestión de Información - Tulipans Clothes
-Este módulo se centra en la COMUNICACIÓN al exterior de mi proyecto para que Tulipans Clothes pueda vender en cualquier lugar. Los puntos tratados fueron:
+README EXPLICATIVA: 1º ASIR LENGUAJE DE MARCAS Y SISTEMA DE GESTION DE INFORMACION - PROYECTO INTERMODULAR
+-
+Haciendo un resumen del PDF y los documentos XML y XSD adjuntos en este repositorio, los puntos tratados fueron:
 
-XML Real del Proyecto: Se creó un catálogo de productos en formato XML. 
+1.Explicación de la empresa y su función: La empresa se llama TULIPANS CLOTHES, una TIENDA EN LÍNEA de ropa modesta contemporánea.
 
-Validación XSD: Se implementó un libro de reglas (XSD) que actúa como un vigilane. Si un precio está mal escrito o falta el stock, el sistema bloquea el dato antes de que salga al exterior.  
+2. XML Real del Proyecto: Se creó un catálogo de productos en formato XML. 
 
-Integración: Elegí que la función sea de Formato de Intercambio, conectando nuestra base de datos interna con las plataformas de venta externas.  
+3. XSD: Se crearon de reglas (XSD) para el (XML). Es un traductor entre nosotros (interior) y el sitio o marketplace donde se publique la tienda (exterior) 
 
-Eficiencia: Gracias a esto, la tienda es escalable y puede comunicarse de manera universal sin errores humanos.
+4.Hice la validación del XML y XSD en VALIDATE XML FILES
+
+4.Integración: Elegi que la función sea de Formato de Intercambio e hice un breve comentario de como llegue a es a conclusion   
+
+*MUCHAS GRACIAS, ATENTAMENTE: MARÍA MARTÍNEZ NAVIA 1º ASIR.*
