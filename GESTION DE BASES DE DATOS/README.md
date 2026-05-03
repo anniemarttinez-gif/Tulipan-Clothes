@@ -11,3 +11,5 @@ Haciendo un resumen del PDF y los SCRIPTS adjuntos en este repositorio. Los punt
 4. Creación y gestión (SQL): Se implementaron scripts para crear las tablas con sus llaves (PK/FK) y se insertaron datos reales de la empresa Tulipans Clothes para probar el sistema.  
 
 5. Consultas y Administración: Se realizaron búsquedas con herramientas solicitadas (ej: JOIN) y se planificó la seguridad mediante copias de seguridad y gestin de usuarios.
+
+*MUCHAS GRACIAS, ATENTAMENTE: MARIA MARTINEZ NAVIA 1º ASIR.*
