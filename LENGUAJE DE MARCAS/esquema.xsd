@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:element name="catalogo">
+        <xs:complexType>
+            <xs:sequence>
+                <!-- Cardinalidad -->
+                <xs:element name="producto" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <!-- Tipo de dato -->
+                            <xs:element name="nombre" type="xs:string" />
+                            <!-- Restricción-->
+                            <xs:element name="precio">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:decimal">
+                                        <xs:minInclusive value="0" />
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+
+                            <!-- Tipo de dato-->
+                            <xs:element name="stock" type="xs:integer" />
+
+                            <!-- Tipo de dato-->
+                            <xs:element name="talla" type="xs:string" />
+                            <xs:element name="color" type="xs:string" />
+                            <xs:element name="categoria" type="xs:string" />
+                        </xs:sequence>
+
+                        <!-- Atributo-->
+                        <xs:attribute name="id" type="xs:integer" use="required" />
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

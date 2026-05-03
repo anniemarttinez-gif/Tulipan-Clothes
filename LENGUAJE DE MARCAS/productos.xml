@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Catálogo-->
+<catalogo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="esquema.xsd">
+    <producto id="1">
+        <nombre>Abaya Open-Front Lino</nombre>
+        <precio>49.99</precio>
+        <stock>20</stock>
+        <talla>Talla Unica</talla>
+        <color>Arena</color>
+        <categoria>Abayas y Sobretodos</categoria>
+    </producto>
+
+    <producto id="2">
+        <nombre>Vestido Nour de Rezo</nombre>
+        <precio>35.00</precio>
+        <stock>15</stock>
+        <talla>S-M</talla>
+        <color>Azul Profundo</color>
+        <categoria>Prendas de Rezo</categoria>
+    </producto>
+
+    <producto id="3">
+        <nombre>Mangas Contemporaneas</nombre>
+        <precio>9.00</precio>
+        <stock>100</stock>
+        <talla>Talla Unica</talla>
+        <color>Negro</color>
+        <categoria>Complementos</categoria>
+    </producto>
+</catalogo>
